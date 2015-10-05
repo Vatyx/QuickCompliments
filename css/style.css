@@ -3,6 +3,7 @@ html, body {
 	height: 100%;
 	margin: 0;
 	position: relative;
+	background-color: #3498db;
 }
 .container:hover {
 	background-color:#bbb;
@@ -39,22 +40,23 @@ span {
 	font-size: 80px;
   	line-height: 1.5;
   	font-weight: 100;
-  	color: #444;
   	text-align: center;
   	margin:  auto;
   	padding: 50px 0;
+  	color: white;
 }
 
 .compliment {
 	margin: auto;
-	max-width: 500px;
-	height: 400px;
+	max-width: 600px;
+	height: 300px;
 	font-size: 50px;
-  	line-height: 400px;
+  	line-height: 200px;
   	font-weight: 100;
   	text-center: center;
   	color: #444;
   	text-align: center;
+  	color: white;
 }
 
 .button {
